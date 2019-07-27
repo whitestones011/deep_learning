@@ -7,4 +7,5 @@
 * https://www.ibmbigdatahub.com/whitepaper/book-harness-power-big-data
 
 ### Courses:
+* https://cognitiveclass.ai/courses/introduction-deep-learning/
 * https://cognitiveclass.ai/courses/deep-learning-tensorflow/
