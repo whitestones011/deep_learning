@@ -1,5 +1,6 @@
 # Deep Learning
-### Dataset
+### Datasets
+* https://lionbridge.ai/datasets/top-25-anime-manga-and-video-game-datasets/
 * https://toolbox.google.com/datasetsearch
 * http://deeplearning.net/datasets/
 ### Reading list:
