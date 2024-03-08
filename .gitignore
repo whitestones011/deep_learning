@@ -1,0 +1,7 @@
+# Data
+/image/data/*
+/pytorch_models/data/*
+
+# Ignore any ipynb.checkpoints
+*.ipynb_checkpoints/
+*checkpoint.ipynb
