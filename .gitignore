@@ -1,6 +1,8 @@
 # Data
 /image/data/*
 /pytorch_models/data/*
+*.csv
+*.txt
 
 # Ignore any ipynb.checkpoints
 *.ipynb_checkpoints/
