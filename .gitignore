@@ -7,3 +7,5 @@
 # Ignore any ipynb.checkpoints
 *.ipynb_checkpoints/
 *checkpoint.ipynb
+
+__pycache__
